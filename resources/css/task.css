@@ -1,0 +1,49 @@
+.dropdown-toggle::after {
+    display: none !important;
+}
+
+.cursor-pointer {
+    cursor: pointer !important;
+}
+
+.vh-0 {
+    height: 0vh !important;
+}
+
+.vh-60 {
+    height: 60vh !important;
+}
+
+.vh-75 {
+    height: 75vh !important;
+}
+
+.vw-0 {
+    width: 0vw !important;
+}
+
+.vw-20 {
+    width: 20vw !important;
+}
+
+.vw-35 {
+    width: 35vw !important;
+}
+
+.min-pw-150 {
+    min-width: 150px !important;
+}
+
+.overflow-y-overlay {
+    overflow-y: overlay !important;
+}
+
+@media (max-width: 991px) {
+    .modal-dialog {
+        min-width: 90vw;
+    }
+}
+
+.fr-box .fr-qi-helper .fr-btn {
+    line-height: inherit;
+}
