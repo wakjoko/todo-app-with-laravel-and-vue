@@ -1,4 +1,4 @@
-<h1 align="center">Todo App for Appetiser</h1>
+<h1 align="center">Todo App</h1>
 
 ## Introduction
 Just like [todoist](https://todoist.com), this app is meant to help you prioritize your tasks.\
